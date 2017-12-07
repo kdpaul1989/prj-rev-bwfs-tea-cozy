@@ -141,3 +141,8 @@ footer {
   padding-left: 20px;
   text-align: left;
 }
+
+.main {
+  max-width: 960x;
+  margin: auto;
+}
